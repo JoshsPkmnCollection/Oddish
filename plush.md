@@ -5,7 +5,9 @@ Release Date: 2019<br>
 MSRP: $10.99 USD<br>
 Notes: This plush series is known as Pokemon fit in Japan, as you can see below.<br>
 [Official Product Link](https://www.pokemoncenter.com/product/701-03794/oddish-sitting-cuties-plush-7-in)<br><br>
-<img src="https://i.imgur.com/1XNcEJI.jpg">
+<img src="https://i.imgur.com/aAQnXCc.jpg">
+<img src="https://i.imgur.com/bBgKMfC.jpg">
+<img src="https://i.imgur.com/Cuug8aF.jpg">
 
 ---
 
