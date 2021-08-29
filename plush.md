@@ -11,6 +11,17 @@ Notes: This plush series is known as Pokemon fit in Japan, as you can see below.
 
 ---
 
+# Relax Time
+Company: ?<br>
+Release Location: Japan<br>
+Release Date: ?<br>
+MSRP: ?<br>
+<img src="https://i.imgur.com/7YzFaDx.jpg">
+<img src="https://i.imgur.com/3PV28cf.jpg">
+<img src="https://i.imgur.com/KxD3qc5.jpg">
+
+---
+
 # Pokemon Center 2018 Plush - Pokemon fit
 Company: The Pokemon Company International<br>
 Release Location: Japan<br>
