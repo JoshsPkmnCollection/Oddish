@@ -18,11 +18,11 @@ Release Date: ?<br>
 MSRP: ?<br>
 Note: Gombe is Munchlax in Japanese<br>
 Japanese characters:<br>
-ポケツトモンスター (Pocket monster)<br>
-くつろぎタイム (Relax time)<br>
-ポケツトモンスター (Pocket monster)<br>
-くつろぎタイム ぬいぐるみ (Relax time Plush Doll)<br>
-〜ピカチュウ・ナゾノクサ・ヤドン・ゴンべ〜 (~ Pikachu, Oddish, Slowpoke, Gombe ~)<br>
+ポケツトモンスター - Pocket monster<br>
+くつろぎタイム - Relax time<br>
+ポケツトモンスター - Pocket monster<br>
+くつろぎタイム ぬいぐるみ - Relax time Plush Doll<br>
+〜ピカチュウ・ナゾノクサ・ヤドン・ゴンべ〜 - ~ Pikachu, Oddish, Slowpoke, Gombe ~<br>
 
 <img src="https://i.imgur.com/7YzFaDx.jpg">
 <img src="https://i.imgur.com/3PV28cf.jpg">
@@ -93,9 +93,10 @@ MSRP: ?<br>
 Japanese characters:<br>
 くるりん - Kururin<br>
 マスコツト - Mascot<br>
+シャンボ PART 3 - Chambo Part 3<br>
 くるりん - Kururin<br>
-すると<br>
+すると - then<br>
 なつちゃうよ! - I'm going to get it!<br>
-モンスタ | ボ  | ルに<br>
+モンスター ボールに - To a monster ball<br>
 ナゾノクサ - Oddish<br>
 <img src="https://i.imgur.com/0Uzp1na.jpg">
