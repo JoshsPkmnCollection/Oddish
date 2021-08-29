@@ -26,7 +26,8 @@ Japanese characters:<br>
 
 <img src="https://i.imgur.com/7YzFaDx.jpg">
 <img src="https://i.imgur.com/3PV28cf.jpg">
-<img src="https://i.imgur.com/KxD3qc5.jpg">
+<img src="https://i.imgur.com/yGreWD1.jpg">
+<img src="https://i.imgur.com/4GwR7KT.jpg">
 
 ---
 
