@@ -16,6 +16,14 @@ Company: ?<br>
 Release Location: Japan<br>
 Release Date: ?<br>
 MSRP: ?<br>
+Note: Gombe is Munchlax in Japanese<br>
+Japanese characters:<br>
+ポケツトモンスター (Pocket monster)<br>
+くつろぎタイム (Relax time)<br>
+ポケツトモンスター (Pocket monster)<br>
+くつろぎタイム ぬいぐるみ (Relax time Plush Doll)<br>
+〜ピカチュウ・ナゾノクサ・ヤドン・ゴンべ〜 (~ Pikachu, Oddish, Slowpoke, Gombe ~)<br>
+
 <img src="https://i.imgur.com/7YzFaDx.jpg">
 <img src="https://i.imgur.com/3PV28cf.jpg">
 <img src="https://i.imgur.com/KxD3qc5.jpg">
