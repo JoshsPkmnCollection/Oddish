@@ -47,6 +47,8 @@ Company: The Pokemon Company International<br>
 Release Location: Japan<br>
 Release Date: 2001<br>
 MSRP: ?<br>
+Japanese characters:<br>
+ぬいぐるみ - plush doll<br>
 <img src="https://i.imgur.com/Ou696X6.jpg">
 <img src="https://i.imgur.com/54JYsxs.jpg">
 <img src="https://i.imgur.com/DeNi3eO.jpg">
